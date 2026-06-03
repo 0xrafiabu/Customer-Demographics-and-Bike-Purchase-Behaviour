@@ -62,7 +62,7 @@ Customers who bought a bike earned more on average than those who did not, acros
 
 ## How to Use
 
-1. Download and open `Customer Demographics and Bike Purchase Behaviour.xlsx`
+1. Download and open `data.xlsx`
 2. Navigate to the **Dashboard** tab
 3. Use the slicers on the left to filter by Region, Marital Status, or Education
 4. Charts update automatically based on your selection
